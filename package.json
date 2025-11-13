@@ -8,12 +8,12 @@
     "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/this-xyz/baileys#readme",
+  "homepage": "https://github.com/Shadow-V3/baileys#readme",
   "repository": {
-    "url": "git@github.com:this-xyz/baileys.git"
+    "url": "git@github.com:Shadow-V3/baileys.git"
   },
   "license": "MIT-License",
-  "author": "this-xyz",
+  "author": "Shadow-V3",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -40,7 +40,7 @@
     "cache-manager": "^5.7.6",
     "cheerio": "^1.0.0-rc.10",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:this-xyz/libsignal-node",
+    "libsignal": "github:Shadow-V3/libsignal-node",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
@@ -49,7 +49,7 @@
     "ws": "^8.13.0"
   },
   "devDependencies": {
-    "@this-xyz/eslint-config": "github:this-xyz/eslint-config",
+    "@this-xyz/eslint-config": "github:Shadow-V3/eslint-config",
     "@types/got": "^9.6.11",
     "@types/jest": "^27.5.1",
     "@types/node": "^16.18.126",
